@@ -1,0 +1,10 @@
+{
+  "domain": "juniper",
+  "name": "Juniper",
+  "documentation": "",
+  "requirements": [
+    "junos-eznc"
+  ],
+  "dependencies": [],
+  "codeowners": []
+}
