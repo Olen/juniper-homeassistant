@@ -1,6 +1,11 @@
 # Integration to use the arp-table of a Juniper SRX as a device-tracker
 
-Should work on all Juniper Layer 3 devices
+Should work on all Juniper Layer 3 devices, but only tested on SRX
+
+# Installation
+
+Copy all the files to a folder under config/custom_components/ - e.g. `config/custom_components/juniper/`
+
 
 # Usage
 
